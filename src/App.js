@@ -8,13 +8,11 @@ const TASKS = [
     id: 1,
     title: 'Mow the lawn',
     isComplete: false,
-    markCompleteData: false,
   },
   {
     id: 2,
     title: 'Cook Pasta',
     isComplete: true,
-    markCompleteData: true,
   },
 ];
 
